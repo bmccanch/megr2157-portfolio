@@ -34,6 +34,9 @@ a. The primary function of my object is to contain water without leaking, and to
 b. The physical principle that governs its operation is the simple machine of a screw. The model is that the incline plane around a round object allows for it to be tightened and fasten things. The variables are the properties of the threads (fine or course, deeper or shallow), and the force applied to the head of the screw to tighten it. One assumption this model makes is that the material the screw is penetrating will have enough strength to hold the necessary force to tighten the screw. This assumption is valid because the metal threads of the water bottle were designed to be strong enough to allow the lid to screw into the body and clamp down hard enough to avoid leaking.
 
 c. 
+![Lid and o-ring. The threads on the lid allow for mechanical leverage while turning rotary torque into a clamping force. The o-ring's malleability allows for it to deform and seal when this clamping force is applied](IMG_9813.jpeg)
+
+![Body of the bottle. The threads formed into the body allow for the lid's threads to interface with the body so that they may be used to clamp the o-ring down with sufficient force.](IMG_9814.jpeg)
 
 d. This design is so simple and universal that there are no patents listed for similar designs.
 
