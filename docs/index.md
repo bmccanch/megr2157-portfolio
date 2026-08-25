@@ -1,8 +1,8 @@
 # Bryan McCanch — MEGR 2157 Portfolio
 
-![MEGR 2156-7 Title](MEGR2156title.png)
+![Duke Centennial Hall](Duke_Drone.jpg)
 
-This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
+This is my engineering portfolio. The About Me page is where you can find information about more personal details about me. The Assignments page is where you can find detailed assignments from my time in MEGR 2157
 
 > **Engineering is the art of making decisions you can defend.**
 
