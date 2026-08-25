@@ -44,11 +44,13 @@ d. This design is so simple and universal that there are no patents listed for s
 
 ## Decide
 
-For the homepage of my portfolio, I added a picture of myself, of my extra-curricular involvement, and personalized the text. I did these things so that the view may see a small picture of my life, as well as giving the viewer some knowledge of my academic presence on campus. To show the viewer that I have hands-on experience, I included some of the FSAE work I have completed. These changes show the overarching theme of my time at UNC Charlotte, and give a precursor to the rest of the items in the portfolio.
+For the homepage of my portfolio, I added a picture of Duke Centennial Hal and personalized the text. I did these things so that the view may see a small picture of my life as a Mechanical engineering student at UNCC, as well as giving the viewer some knowledge of my academic presence on campus. 
 
-I deliberately changed the colors of the portfolio so that the text may catch the viewer's eye more effectively.
+I deliberately changed the color of the portfolio theme so that the text may catch the viewer's eye more effectively. I changed the lighter green to a darker blue that let the white text stand out more.
 
 I intend on writing succinct and accurate statements that are professional in tone and content.
 
 ## Communicate
+
+This section has been completed within the "About Me" page of the portfolio.
 
