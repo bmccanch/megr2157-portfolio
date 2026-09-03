@@ -54,6 +54,6 @@ As earlier stated, this is a mild steel that is rather ductile so buckling due t
 
 The most likely failure case would typically be bearing yielding or potentially a shear failure. Because the joint is single shear, this means the load on the bearing surface is not uniform and could create high-stress areas within the truss material. Since the pin material is much harder than the truss material, this would make the bearing deformation more likely than shear failure. A simple solution for this would be to implement a simple double shear connection instead. This would allow for a similar weight while being a much stronger joint.
 
-####Sources:
+#### Sources:
 https://efficientengineer.com/buckling/
 https://mechanicalc.com/reference/lug-analysis#simplified-bearing-failure
