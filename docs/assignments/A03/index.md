@@ -45,17 +45,17 @@ After the mesh was created, the simulation was able to be computed. This gave me
 ### a.
 ![Deformation map](Displacement.png)
 
-The map above shows the deformation of the beam. The maximum deformation shown in the beam is _____ . This is ____ percent error compared to the calculated value of ____. 
+The map above shows the deformation of the beam. The maximum deformation shown in the beam is 0.00905 in. This is 0.53 percent error compared to the calculated value of .009 in. 
 
 ### b and c.
 ![von Mises Stress map](Stress.png)
 
-The maximum stress shown in this map is ____ . This maximum stress can be used to determine the safety factor compared to the yield strength of the aluminum alloy I selected. This safety factor can be calculated as ____ . This shows that the force applied on the aluminum is well within the elastic deformation region of a stress-strain curve, and therefore the beam should not plastically deform.
+The maximum stress shown in this map is 4.126x10^2 psi. This maximum stress can be used to determine the safety factor compared to the yield strength of the aluminum alloy I selected (3.989x10^4 psi). This safety factor can be calculated as 96.7. This shows that the force applied on the aluminum is well within the elastic deformation region of a stress-strain curve, and therefore the beam should not plastically deform.
 
 ## 3. Design Reflection
 
 ### a.
-The difference between the calculated deformation (____ in.) and the value found by FEA (____ in.) is ____. The percent error is ___. This is likely from ____. I would trust the FEA more than the simple hand calculation for this situation. the hand calculation is very simplified and assume a lot about how the force is applied. FEA makes fewer assumptions and therefore has a more accurate model.
+The difference between the calculated deformation (0.009 in.) and the value found by FEA (.00905 in.) is 5x10^(-5). The percent error is 0.53%. This is likely from the beam deforming slightly more at the points the force and fixture was applied. I would trust the FEA more than the simple hand calculation for this situation. The hand calculation is very simplified and assume a lot about how the force is applied. FEA makes fewer assumptions and therefore has a more accurate model. But in this case, the calculation is so close to the simulated model that I would be comfortable using either.
 
 ### b.
 HOLE ????
