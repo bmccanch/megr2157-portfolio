@@ -58,7 +58,10 @@ The maximum stress shown in this map is 4.126x10^2 psi. This maximum stress can 
 The difference between the calculated deformation (0.009 in.) and the value found by FEA (.00905 in.) is 5x10^(-5). The percent error is 0.53%. This is likely from the beam deforming slightly more at the points the force and fixture was applied. I would trust the FEA more than the simple hand calculation for this situation. The hand calculation is very simplified and assume a lot about how the force is applied. FEA makes fewer assumptions and therefore has a more accurate model. But in this case, the calculation is so close to the simulated model that I would be comfortable using either.
 
 ### b.
-HOLE ????
+Assuming that this bar is a flat plate, a pin hole that is 0.25 in. would cause the max stress to be ~2.3 times the average stress at the hole. Assuming a square bar of the same cross-sectional area instead of circular, the average stress would be `300 lbs / (.665^2 - .25*.665) = 1087 psi`. This means that the peak stress around the hole would be `1087psi * 2.3 = 2,500.2 psi`. This gives a safety factor of 15.95. This would still not deform and would behave elastically.
+
+![Kt graph to find the coefficient](Kt.png)
+This is the graph used to find a value for my stress concentration factor.
 
 ## 4. Lessons Learned
 Through this assignment I learned how to create a simple parametric model, as well as some basic fixturing and force application to compute a FEA simulation. This took me about 3 hours to complete because my software and design did not give me any issues or trouble.
