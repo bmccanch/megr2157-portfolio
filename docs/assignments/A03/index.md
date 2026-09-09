@@ -67,3 +67,11 @@ Through this assignment I learned how to create a simple parametric model, as we
 
 For this section, I decreased the radius of the beam to a radius of 3/8s of an inch, and increased the force to 400lbf. based on these changes, I believe the beam length will decrease.
 
+Once calculating using parametric equations, the updated length was 99.47 in. My guess was accurate and the length decreased.
+
+![Equations with updated values](Equations_new.png)
+
+After running FEA, the deformation was found to be 0.00902 in., and the stress was found to be 9.910x10^2 psi. The new safety factor is 40.25. The maps are shown below for each.
+
+![Updated displacement map](Displacement_new.png)
+![Updated stress map](Stress_new.png)
