@@ -8,7 +8,7 @@
 I first started by Researching some mounting solutions. The links below are the 3 designs I looked at:  
 [3d printed mount](https://cults3d.com/en/3d-model/tool/nema-17-stepper-motor-halter)  
 [Metal 6-holed mount](https://www.amazon.com/Rustark-Diameter-Mounting-Resistance-Reduction/dp/B07Z9ZB5NC/ref=sr_1_29?crid=1658Y9WEGFIPO&dib=eyJ2IjoiMSJ9.2CzLMmKkazXpv-bEwug1olzNb9MD7_lwWo9jfDEA1-ig9pPgw3nsbYtac3OpCL-c83cwKSUxVnWFFKzYbNOdI3c-fjjnLNVGj53GnrGr_h8o6IpJITZMx8wYBW-Q7lTkhBVpDFDlhsuswNcYoEmJEg.yTJJNkcdEgwjrmSF8Dn51_MO4XxO1-I1tkbeZXvOBg0&dib_tag=se&keywords=plastic+stepper+motor+mount&qid=1789435462&s=industrial&sprefix=plastic+stepper+motor+moun%2Cindustrial%2C161&sr=1-29&xpid=EP21djhDugfFJ)  
-/n[Metal 4-holed and slotted mount](https://www.amazon.com/Stepper-Motor-Mounting-Bracket-Screws/dp/B073V77VLD/ref=asc_df_B073V77VLD?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80883033958798&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=81612&hvtargid=pla-4584482511274409&psc=1)  
+[Metal 4-holed and slotted mount](https://www.amazon.com/Stepper-Motor-Mounting-Bracket-Screws/dp/B073V77VLD/ref=asc_df_B073V77VLD?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80883033958798&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=81612&hvtargid=pla-4584482511274409&psc=1)  
 
 Then I started sketching my design and an isometric view for this. This allowed me to define one critical length not specified in the other views shown later.
 
