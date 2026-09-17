@@ -11,7 +11,7 @@ Then I started sketching my design and an isometric view for this. This allowed 
 
 ![Orthographic and Isometric views](Isometric.png)
 
-This then allowed me to create Free Body diagrams for both feature 1 and 2 as shown below
+This then allowed me to create Free Body diagrams for both feature 1 and 2 while also creating a load case based on the torque the motor can output and a common pulley size that could be attached to the motor.
 
 ![Free body diagrams for both features](FBD.png)
 
