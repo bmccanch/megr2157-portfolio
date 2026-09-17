@@ -13,6 +13,8 @@ Then I started sketching my design and an isometric view for this. This allowed 
 
 This then allowed me to create Free Body diagrams for both feature 1 and 2 as shown below
 
+![Free body diagrams for both features](FBD.png)
+
 ## Yield Stress Design: Features 1 & 2 
 
 I started this process by first drawing a Free Body Diagram. This shows the assumptions used in this calculation and the way forces were applied. I then listed all the known and unknown variables from here and then applied the max bending stress equations as specified. After rearranging these values and plugging these values in, it would give me the thickness required for both features. Feature 1 required a thickness of 1.38mm and feature 2 required a thickness of 1.56mm. The image below shows my hand calculations for both features
