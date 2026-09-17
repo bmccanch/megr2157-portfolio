@@ -58,7 +58,7 @@ I started by using the "Drawing from Part" feature of Solidworks. This told the 
 
 Then I added dimensions to the whole part making sure not to have duplicates and making sure to reference every dimension that is crucial to the part. This finished the drawing of my part.
 
-![Finished drawing with dimensions](Final_drawing.png)
+
 
 
 
