@@ -1,8 +1,5 @@
 # A4 – Motor Mount
 
-## Objective
-
-
 ## Sketch
 
 I first started by Researching some mounting solutions. The links below are the 3 designs I looked at:  
