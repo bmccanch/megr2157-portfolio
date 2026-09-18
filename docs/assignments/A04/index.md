@@ -60,5 +60,10 @@ Then I added dimensions to the whole part making sure not to have duplicates and
 
 ![Finished drawing with dimensions](Final_drawing_1.png)
 
+## CAD Downloads
+[Yield strength model](https://drive.google.com/file/d/149RxfAATfIB2k2kqTqbDkI-vnOmXsoHT/view?usp=sharing)  
+[Max deflection model](https://drive.google.com/file/d/15vstDB2YSYNBvE89sAflXC6hSuZv5njm/view?usp=sharing)
+[Drawing file](https://drive.google.com/file/d/1JH9l2YAOpAlhTzae1-sRVcxMjUuAIrPh/view?usp=sharing)
+
 
 
