@@ -44,4 +44,16 @@ One assumption was the assumption that Feature 2 was only under axial loads. If 
 
 ## MEGR 2157 Section
 
+All parts of this section were done on the paper below. I will annotate and add details in each section of captions underneath the image.
+
+![2157 linkage image](2157.png)
+
+### Dimensions
+I determined the dimensions based off of stress and deflection calculations using the forces this part would see along with the geometry of the part. I did the calculations on the right side of the paper using geometry gathered from the drawing on the left. The calculations showed that the stress analysis required a larger cross-section than the deflection analysis did, so the stress-calculated value is the final dimension of the part.
+
+### Proper Fits
+For both fits, I used the guide on pages 651-2 to determine which sliding/force fits to use for each shaft and hole. From there, I used the table on page 654 to determine the clearance for the hole for feature 1 and used the table on page 659 to determine the interference for the hole for the 1.000 in. bar. 
+To determine the required manufacturing process, I referred to the charts below (located on page 650). I found that reaming would be sufficiently accurate for both holes based on these charts and the tolerances this part would need.
+
+![Tolerances and machining processes chart](Chart.png)
 
