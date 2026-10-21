@@ -82,7 +82,7 @@ I created the first mesh and ran the analysis for it.
 ![Design 3, Stress 1](D3S1.png)
 ![Design 3, Deflection 1](D3D1.png)
 
->>>>For this first mesh, The max stress was 3.06e8 N/m2, which gives a safety factor of 2.7, and a max deflection of 0.0195". This mesh had 30809 elements.
+For this first mesh, The max stress was 2.03e8 N/m2, which gives a safety factor of 4.1, and a max deflection of 0.003406". This mesh had 27703 elements.
 
 ### Innerloop 2
 I then created a finer mesh and ran it.
@@ -91,7 +91,7 @@ I then created a finer mesh and ran it.
 ![Design 3, Stress 2](D3S2.png)
 ![Design 3, Deflection 2](D3D2.png)
 
->>>>This mesh gave a max stress of 3.08e8 N/m2, which gives a safety factor of 2.7 and a max deflection of 0.01954". This mesh had 37821 elements. For this change, the stress converged with a difference of 0.6%, and the deflection converged with a difference of 0.2%
+This mesh gave a max stress of 2.08e8 N/m2, which gives a safety factor of 4.0 and a max deflection of 0.003404" This mesh had 39493 elements. For this change, the stress converged with a difference of 2.91%, and the deflection converged with a difference of 0.06%
 
 
 ### Innerloop 3
@@ -101,7 +101,7 @@ I then moved to a third, even finer mesh and ran it.
 ![Design 3, Stress 3](D3S3.png)
 ![Design 3, Deflection 3](D3D3.png)
 
->>>>>>This mesh gave a max stress of 3.06e8 N/m2, which gives a safety factor of 2.7, and a max deflection of 0.0196". This mesh had 55961 elements. For this change, the stress converged with a difference of 0.6%, and the deflection converged with a difference of 0.31%
+This mesh gave a max stress of 2.05e8 N/m2, which gives a safety factor of 4.0, and a max deflection of 0.003413". This mesh had 69414 elements. For this change, the stress converged with a difference of 1.63%, and the deflection converged with a difference of 0.26%
 
 ## Summary Table
 
