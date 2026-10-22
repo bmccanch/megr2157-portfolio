@@ -110,4 +110,33 @@ After taking the analyses that converged, the designs resulted in the following:
 
 ![Summary Table](Table.png)
 
+##  Linkage Design
 
+### Design 1
+Here is the linkage modeled for the assignement in A06:
+![Linkage original design](Link1.png)
+
+#### Inner Loops
+When completing the coarse mesh FEA on this design, it achieved 5.30e7 N/m2 stress, which gave it a 15.614 safety factor, and a deflection of .001035". After running the finer mesh, the values changed to 5.55e7 N/m2 and .001043". This is a 4.7% and 4.3% respectively, meaning that it converges.
+
+### Design 2
+From there I looked at the points of higher stress and made these thicker and made a cutout towards the middle of the link where there was little stress. This ended with a design as shown below (after meshing).
+![Updated linkage](Link2.png)
+
+#### Inner Loops
+When completing the coarse mesh FEA on this design, it achieved 3.33e7 N/m2 stress, which gave it a 24.854 safety factor, and a deflection of .000598". After running the finer mesh, the values changed to 3.37e7 N/m2 and .000604". This is a 1.2% and 1.07% respectively, meaning that it converges.
+
+### Design 3 
+From this design, I further thinned out areas of low stress and made the cutout even deeper. The image is below.
+![Last linkage](Link3.png)
+
+#### Inner Loops
+When completing the coarse mesh FEA on this design, it achieved 3.45e7 N/m2 stress, which gave it a 23.97 safety factor, and a deflection of .000655". After running the finer mesh, the values changed to 3.44e7 N/m2 and .000660". This is a 0.32% and 0.67% respectively, meaning that it converges.
+
+## Linkage Summary Table
+
+This is the final numbers for each of the designs:
+![Linkage Summary Table](LinkSummary.png)
+
+Here is the total table of results:
+![Full results](LinkResults.png)
