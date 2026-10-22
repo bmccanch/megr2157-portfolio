@@ -140,3 +140,7 @@ This is the final numbers for each of the designs:
 
 Here is the total table of results:
 ![Full results](LinkResults.png)
+
+## CAD Download
+
+[CAD Download](https://drive.google.com/drive/folders/1rVTbQ_EPtFZdqRWFswcO-6yiqfy-5do1?usp=drive_link)
