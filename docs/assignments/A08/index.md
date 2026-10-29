@@ -20,3 +20,8 @@ I chose to use a FN2 tolerances and fits because the gears and shafts are ordina
 I used a 6061 Aluminum housing with a clear acrylic lid bolted on with countersunk M2 bolts. This allows the enclosure to seal but remain visible for inspection. I used multiple global variables to define this.
 <img width="424" height="491" alt="Screenshot 2026-10-29 082240" src="https://github.com/user-attachments/assets/7aa7b8a3-2a29-4f0e-a3ab-a3680ccfebfb" />
 <img width="491" height="191" alt="Screenshot 2026-10-29 082336" src="https://github.com/user-attachments/assets/0533cb61-4310-464f-b806-36967a8bc63b" />
+
+## CAD Download
+
+Here is the link to my CAD: https://drive.google.com/drive/folders/1G1qWGk6DIqNxRdT31Ip3ClpKS8rRNQ7a?usp=sharing
+I spent 8 hours on this assignment and I learned how to avoid procrastination while doing assignments with multiple facets.
